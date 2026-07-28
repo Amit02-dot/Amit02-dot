@@ -35,8 +35,6 @@ Hi, I'm **Amit Singh** 👋
 
 ---
 
-# 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=Amit02-dot&theme=github_dark&show_icons=true&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit02-dot&layout=compact&theme=github_dark&hide_border=true)

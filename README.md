@@ -1,15 +1,48 @@
-# 💫 About Me:
-Hi, I’m Amit Singh 👋<br>A Computer Science undergraduate passionate about building efficient and scalable web applications.<br><br>💻 Skilled in Python, JavaScript, and React, with hands-on experience in developing responsive frontends and backend systems using REST APIs and SQL.<br>🚀 Built projects like a Fitness Platform for tracking workouts and a Data Leakage Prevention System focused on improving data security.<br><br>I enjoy solving problems, learning new technologies, and continuously improving my development skills.<br>Open to collaboration and opportunities in software development.
+# 💫 About Me
 
+Hi, I'm **Amit Singh** 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Amit02-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Amit02-dot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amit02-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 Computer Science undergraduate passionate about building scalable software and modern web applications.
+
+💻 **Skills**
+- Python
+- JavaScript
+- React
+- Node.js
+- MySQL
+- REST APIs
+
+🚀 **Projects**
+- 🏋️ Fitness Platform – Track workouts and fitness progress.
+- 🔒 Data Leakage Prevention System – Improve organizational data security.
+
+🌱 Currently learning Full Stack Development, Cloud Computing, and System Design.
+
+🤝 Open to internships, collaborations, and Software Development opportunities.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Amit02-dot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Amit02-dot&theme=github_dark&show_icons=true&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit02-dot&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Amit02-dot&style=flat-square&color=blue)
+
+<!-- Created with ❤️ by Amit Singh -->
